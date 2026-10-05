@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
 
 <p align="center">
-  <b>AI & Software Development Student</b>
+  <b>AI & Automation Developer | Data Analyst | Software Developer</b>
 </p>
 
 <p align="center">
-  Passionate about Artificial Intelligence, Data Science,
-  Machine Learning and Software Development.
+  I specialize in automating business processes using
+  Artificial Intelligence, APIs and workflow automation tools.
 </p>
 
 <p align="center">
@@ -24,21 +24,52 @@
 
 🎓 Computer Science & AI Student
 
-📊 Interested in Data Analysis & Data Science
+🤖 Specialized in AI-powered process automation
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+⚙️ Building automated workflows and intelligent business processes
 
-💻 Software Developer
+🧠 Integrating AI, APIs and automation platforms
 
-🧠 Interested in building intelligent and innovative applications
+📊 Data Analysis & Data Science
 
-🚀 Always learning and exploring new technologies
+💻 Software Development
+
+🚀 Interested in building practical AI solutions that save time and improve productivity
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚡ AI & Process Automation
 
-### 💻 Languages & Frameworks
+I design and develop automated workflows by combining:
+
+- 🤖 Artificial Intelligence & LLMs
+- 🔗 APIs & Webhooks
+- ⚙️ Workflow Automation
+- 📊 Data Processing
+- 🧠 AI Agents
+- 🔄 Business Process Automation
+- 🗄️ Databases
+- 🌐 Web Services
+
+### Automation Tools
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+### AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 💻 Development
+
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -48,14 +79,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI & Data Science
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### ⚙️ Tools & DevOps
+## 🧰 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,30 +90,40 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohamed-dib&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+### 🤖 AI-Powered Automation
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dib&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+Automating repetitive processes by combining AI with workflow automation.
+
+### ⚙️ Business Process Automation
+
+Designing workflows that connect applications, APIs, databases and business tools.
+
+### 🧠 Intelligent Workflows
+
+Using LLMs and AI agents to analyze information, make decisions and trigger automated actions.
+
+### 🔗 API & System Integration
+
+Connecting different services and applications through APIs, webhooks and automated workflows.
+
+### 📊 Data Automation
+
+Automating data collection, processing, transformation and analysis.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔥 Currently Exploring
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Analysis
-- 💻 Software Development
-- 🌐 Web Applications
-- ⚡ Intelligent Automation
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- ⚡ AI-powered automation
+- 🔗 API integrations
+- 🔄 n8n workflows
+- 🏢 Business Process Automation
+- 📊 Data & Analytics
+- 🐳 Docker & self-hosted solutions
 
 ---
 
@@ -108,5 +144,5 @@
 ---
 
 <p align="center">
-  <i>Building • Learning • Creating</i>
+  <i>Automate. Integrate. Innovate.</i>
 </p>
