@@ -30,26 +30,8 @@
 
 🧠 Integrating AI, APIs and automation platforms
 
-📊 Data Analysis & Data Science
-
-💻 Software Development
-
-🚀 Interested in building practical AI solutions that save time and improve productivity
-
 ---
 
-## ⚡ AI & Process Automation
-
-I design and develop automated workflows by combining:
-
-- 🤖 Artificial Intelligence & LLMs
-- 🔗 APIs & Webhooks
-- ⚙️ Workflow Automation
-- 📊 Data Processing
-- 🧠 AI Agents
-- 🔄 Business Process Automation
-- 🗄️ Databases
-- 🌐 Web Services
 
 ### Automation Tools
 
@@ -88,44 +70,7 @@ I design and develop automated workflows by combining:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-## 🚀 What I Build
-
-### 🤖 AI-Powered Automation
-
-Automating repetitive processes by combining AI with workflow automation.
-
-### ⚙️ Business Process Automation
-
-Designing workflows that connect applications, APIs, databases and business tools.
-
-### 🧠 Intelligent Workflows
-
-Using LLMs and AI agents to analyze information, make decisions and trigger automated actions.
-
-### 🔗 API & System Integration
-
-Connecting different services and applications through APIs, webhooks and automated workflows.
-
-### 📊 Data Automation
-
-Automating data collection, processing, transformation and analysis.
-
----
-
-## 🔥 Currently Exploring
-
-- 🤖 AI Agents
-- 🧠 LLM Applications
-- ⚡ AI-powered automation
-- 🔗 API integrations
-- 🔄 n8n workflows
-- 🏢 Business Process Automation
-- 📊 Data & Analytics
-- 🐳 Docker & self-hosted solutions
-
----
 
 ## 🌐 Connect With Me
 
