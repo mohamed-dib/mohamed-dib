@@ -9,15 +9,6 @@
   Artificial Intelligence, APIs and workflow automation tools.
 </p>
 
-<p align="center">
-  <a href="https://mohamed-dib.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-dib-data-analyst">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
