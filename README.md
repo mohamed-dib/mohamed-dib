@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
 
 <p align="center">
-  <b>AI & Automation Developer | Data Analyst | Software Developer</b>
+  <img src="gif.gif" width="700" alt="Animation">
 </p>
 
 <p align="center">
