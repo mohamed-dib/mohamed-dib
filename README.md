@@ -1,1 +1,112 @@
-# mohamed-dib
+<h1 align="center">Hi there, I'm Mohamed 👋</h1>
+
+<p align="center">
+  <b>AI & Software Development Student</b>
+</p>
+
+<p align="center">
+  Passionate about Artificial Intelligence, Data Science,
+  Machine Learning and Software Development.
+</p>
+
+<p align="center">
+  <a href="https://mohamed-dib.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-dib-data-analyst">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science & AI Student
+
+📊 Interested in Data Analysis & Data Science
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+💻 Software Developer
+
+🧠 Interested in building intelligent and innovative applications
+
+🚀 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### ⚙️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohamed-dib&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dib&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analysis
+- 💻 Software Development
+- 🌐 Web Applications
+- ⚡ Intelligent Automation
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://mohamed-dib.github.io/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-mohamed--dib.github.io-00BFFF?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-dib-data-analyst">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Dib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building • Learning • Creating</i>
+</p>
